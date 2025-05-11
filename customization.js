@@ -60,22 +60,22 @@ module.exports = {
   LOGOMENU: "📑 © 𓄂𝐎ᴡͥɳͣᴇͫᴙ《 𝐃𝚮𝚫𝚴𝐔𝐖𝚫 》 𝗟𝗢𝗚𝗢 𝗠𝗘𝗡𝗨 📑",
   USEFULLMENU: "📑 © 𓄂𝐎ᴡͥɳͣᴇͫᴙ《 𝐃𝚮𝚫𝚴𝐔𝐖𝚫 》 𝗧𝗢𝗢𝗟𝗦 𝗠𝗘𝗡𝗨 📑",
   //=====================menu-img's================================
-  ALLMENUIMG: "https://i.ibb.co/60qVJzJ/20220802-092127.png",
-  REACTMENUIMG: "./src/media/LOGOS/react.jpg",
-  SEARCHMENUIMG: "./src/media/LOGOS/search.jpg",
-  HENTAIMENUIMG: "./src/media/LOGOS/hentaimenu.jpg",
-  DOWNLOADMENUIMG: "./src/media/LOGOS/dl.jpg",
-  MOVIEMENUIMG: "https://i.ibb.co/kBzxtbp/5edd3ba860205009.jpg",
-  GROUPMENUIMG: "./src/media/LOGOS/group.jpg",
-  OWNERMENUIMG: "./src/media/LOGOS/owner.jpg",
-  CONVERTMENUIMG: "./src/media/LOGOS/convert.jpg",
-  SETTINGSMENUIMG: "./src/media/LOGOS/settings.jpg",
-  NSFWMENUIMG: "./src/media/LOGOS/nsfw.jpg",
-  MAINMENUIMG: "./src/media/LOGOS/main.jpg",
-  FUNMENUIMG: "./src/media/LOGOS/aifun.jpg",
-  AIMENUIMG: "./src/media/LOGOS/ai.jpg",
-  LOGOMENUIMG: "./src/media/LOGOS/mokak.jpg",
-  USEFULLMENUIMG: "./src/media/LOGOS/useful.jpg",
+  ALLMENUIMG: "https://i.ibb.co/KpXc6vpL/6504.jpg",
+  REACTMENUIMG: "https://i.ibb.co/KpXc6vpL/6504.jpg",
+  SEARCHMENUIMG: "https://i.ibb.co/KpXc6vpL/6504.jpg",
+  HENTAIMENUIMG: "https://i.ibb.co/KpXc6vpL/6504.jpg",
+  DOWNLOADMENUIMG: "https://i.ibb.co/KpXc6vpL/6504.jpg",
+  MOVIEMENUIMG: "https://i.ibb.co/KpXc6vpL/6504.jpg",
+  GROUPMENUIMG: "https://i.ibb.co/KpXc6vpL/6504.jpg",
+  OWNERMENUIMG: "https://i.ibb.co/KpXc6vpL/6504.jpg",
+  CONVERTMENUIMG: "https://i.ibb.co/KpXc6vpL/6504.jpg",
+  SETTINGSMENUIMG: "https://i.ibb.co/KpXc6vpL/6504.jpg",
+  NSFWMENUIMG: "https://i.ibb.co/KpXc6vpL/6504.jpg",
+  MAINMENUIMG: "https://i.ibb.co/KpXc6vpL/6504.jpg",
+  FUNMENUIMG: "https://i.ibb.co/KpXc6vpL/6504.jpg",
+  AIMENUIMG: "https://i.ibb.co/KpXc6vpL/6504.jpg",
+  LOGOMENUIMG: "https://i.ibb.co/KpXc6vpL/6504.jpg",
+  USEFULLMENUIMG: "https://i.ibb.co/KpXc6vpL/6504.jpg",
   //======================download============================
   TIKTOK: function (title, author, q) {
     return `
@@ -107,7 +107,7 @@ Twitter URL: ${q}
         `.trim();
   },
   //=================main==================================
-  ALIVEIMG: "https://i.ibb.co/kBzxtbp/5edd3ba860205009.jpg",
+  ALIVEIMG: "https://i.ibb.co/KpXc6vpL/6504.jpg",
   ALIVEVOICE: "./src/media/Auto_voice/alive.aac",
   ALIVEMSG: function (hostname, config, pushname, runtime) {
     return `
@@ -275,7 +275,7 @@ ${description}
 • 🔗 *Link:* ${data.url}
           
 🎧 Enjoy your music with MR DHANUKA-MD Bot  
-❤️ Created by Pathum Lakshan
+❤️ Created by DHANUWA
         `.trim();
   },
   YTMP3: function (data) {
@@ -304,7 +304,7 @@ ${description}
 • 🔗 *Link:* ${data.url}
           
 🎧 Enjoy your music with MR DHANUKA-MD Bot  
-❤️ Created by Pathum Lakshan
+❤️ Created by DHANUWA
         `.trim();
   },
   YTMP4: function (data) {
